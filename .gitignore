@@ -1,0 +1,9 @@
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# executable
+BigCam
+.fuse_hidden*
